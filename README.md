@@ -10,7 +10,7 @@ Ini adalah proyek kalkulator GUI sederhana yang dibuat menggunakan Python dan Tk
 
 ## Screenshot
 
-![capture](capture/screenshot.png)
+![capture](capture/screenshot.PNG)
 
 ## Penggunaan
 
